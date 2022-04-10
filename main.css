@@ -1,0 +1,12 @@
+body{
+background-color: cadetblue;
+
+}
+/* center div using css*/ 
+
+div{
+    width: 600px;
+    height: 700px;
+    /*border: 2px solid red;*/
+    margin: 0 auto;
+}
